@@ -1,4 +1,4 @@
 # Project1
 
-- 👋 Hi, I’m @Avanish16
+- 👋 Hi, I’m @Avanish
 - 🌱 I’m currently learning java 
